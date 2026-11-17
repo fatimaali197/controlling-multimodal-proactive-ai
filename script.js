@@ -10,7 +10,7 @@ const CONFIG = {
   paperUrl: 'https://arxiv.org/submit/8385311/view', // Temporary submission preview; replace with public URL when available.
   paperLinkNote: 'Temporary submission preview · not a public arXiv permalink.',
   year: 2026,
-  demoUrl: 'https://drive.google.com/file/d/15g0p1GXx7p_DaGdW8b1xDk01mC2Ip-h7/view?usp=sharing',
+  demoUrl: 'https://drive.google.com/file/d/1JZbzhX6aCmeMzF1BxajLPb4oEQe8QSfq/view?usp=drive_link',
   citationText: `% PROVISIONAL CITATION — update when public publication metadata is available.
 @misc{spotme_provisional,
   title = {Sensing Without Speaking? Controlling Proactive Multimodal AI},
